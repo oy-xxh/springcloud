@@ -3,4 +3,4 @@
 
 
 收益一览：
-![image text](https://github.com/oy-xxh/springcloud/blob/master/1.png)
+![image text](https://github.com/oy-xxh/springcloud/master/1.png)
